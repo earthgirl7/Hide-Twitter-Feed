@@ -14,10 +14,10 @@ Post to Unlock: After you post a tweet, the timeline is automatically revealed. 
 
 ### Installation Instructions
 
-Step 1: Open Arc Browser and X
+Step 1: Open Arc Browser and X. 
 Make sure you have Arc Browser installed and navigate to X/Twitter.
 
-Step 2: Create a New Boost
+Step 2: Create a New Boost. 
 Click the "Boost" icon on the sidebar in Arc.
 
 Select "New Boost" and choose "Custom Boost."
