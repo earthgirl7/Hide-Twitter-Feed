@@ -1,4 +1,4 @@
-# Hide-Twitter-Feed
+# Hide Twitter Feed
 Arc Boost: Hidden X/Twitter Timeline Until You Post.
 
 ### Description
