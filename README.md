@@ -67,7 +67,7 @@ javascript
             showContent();
         }
     });
-});
+    });
 
 
 Step 4: Save and Activate
