@@ -81,7 +81,6 @@ document.addEventListener("DOMContentLoaded", function() {
         }
     });
 });
-t
 ```
 
 Step 4: Save and Activate
