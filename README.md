@@ -19,10 +19,9 @@ In the boost editor, select "JS" to add custom JavaScript.
 Paste the following code into the editor:
 
 javascript
-Copy code
 
 
-document.addEventListener("DOMContentLoaded", function() {
+    document.addEventListener("DOMContentLoaded", function() {
     function openTweetComposer() {
         let postButton = document.querySelector('[data-testid="SideNav_NewTweet_Button"]');
         if (postButton) {
