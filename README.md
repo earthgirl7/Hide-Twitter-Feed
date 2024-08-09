@@ -1,9 +1,8 @@
 # Hide-Twitter-Feed
 Arc Boost: Hidden Twitter Timeline Until You Post.
-Requires the Arc Browser.
 
 Description
-This Arc Boost hides your Twitter timeline and all related content until you post a tweet. Once you hit the "Post" button, your timeline will be revealed. It’s a great way to encourage yourself to engage on Twitter without getting distracted by the feed
+This Arc Boost hides your Twitter timeline and all related content until you post a tweet. Once you hit the "Post" button, your timeline will be revealed. It’s a great way to encourage yourself to engage on Twitter without getting distracted by the feed. Uses the Arc browser boost function.
 
 ![image](https://github.com/user-attachments/assets/aa3ec0cf-a388-400c-8904-908dc4d90d5a)
 
