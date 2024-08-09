@@ -76,11 +76,13 @@ document.addEventListener("DOMContentLoaded", function() {
     });
 });
 t
-
+```
 
 Step 4: Save and Activate
 Save the boost and ensure it’s active for Twitter.
+
 Step 5: Use the Boost
 Load Twitter in Arc, and enjoy the distraction-free tweeting experience. Post a tweet to reveal your timeline, or press "t" to toggle the timeline visibility.
+
 Feedback and Contributions
 If you have any feedback or would like to contribute to improving this boost, feel free to reach out or fork the project on GitHub.
