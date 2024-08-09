@@ -2,7 +2,7 @@
 Arc Boost: Hidden X/Twitter Timeline Until You Post.
 
 ### Description
-This Arc Boost hides your X timeline and all related content until you post a tweet. Once you hit the "Post" button, your timeline will be revealed. Alternatively, you can press "t" to reveal the timeline. It’s a great way to force yourself into creation mode insteaf of consumption mode. Uses the Arc browser boost function.
+This Arc Boost hides your X timeline and all related content until you post a tweet. Once you hit the "Post" button, your timeline will be revealed. It’s a great way to force yourself into creation mode insteaf of consumption mode. Uses the Arc browser boost function.
 
 ![image](https://github.com/user-attachments/assets/aa3ec0cf-a388-400c-8904-908dc4d90d5a)
 
