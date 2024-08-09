@@ -2,7 +2,10 @@
 Arc Boost: Hidden Twitter Timeline Until You Post
 
 Description
-This Arc Boost hides your Twitter timeline and all related content until you post a tweet. Once you hit the "Post" button, your timeline will be revealed. It’s a great way to encourage yourself to engage on Twitter without getting distracted by the feed!
+This Arc Boost hides your Twitter timeline and all related content until you post a tweet. Once you hit the "Post" button, your timeline will be revealed. It’s a great way to encourage yourself to engage on Twitter without getting distracted by the feed
+
+![image](https://github.com/user-attachments/assets/aa3ec0cf-a388-400c-8904-908dc4d90d5a)
+
 
 How It Works
 Initial State: When you load Twitter, the timeline and content are hidden, and only the tweet composer is visible.
@@ -19,9 +22,8 @@ In the boost editor, select "JS" to add custom JavaScript.
 Paste the following code into the editor:
 
 javascript
-
+Copy code
 document.addEventListener("DOMContentLoaded", function() {
-    // Function to click the Post button and bring up the tweet box
     function openTweetComposer() {
         let postButton = document.querySelector('[data-testid="SideNav_NewTweet_Button"]'); // Select the Post button
         if (postButton) {
@@ -74,7 +76,6 @@ document.addEventListener("DOMContentLoaded", function() {
         }
     });
 });
-t
 
 
 Step 4: Save and Activate
